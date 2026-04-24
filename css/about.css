@@ -94,9 +94,10 @@
 
 /* Media Queries */
 @media (max-width: 1024px) {
-    .about h1 {
+    .about {
         margin-top: 50px;
     }
+    
     .advantages .container {
         flex-wrap: wrap;
         padding: 0 30px;
