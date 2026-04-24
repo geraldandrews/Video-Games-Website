@@ -1,0 +1,171 @@
+
+[
+    {
+        "id": "1",
+        "title": "Double Dragon",
+        "release": "April 22, 1987",
+        "console": " NES",
+        "image": "classic/classic-1.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Double Dragon 2",
+        "release": "December 22, 1989",
+        "console": "NES",
+        "image": "classic/classic-2.jpg"
+    },
+    {
+        "id": "3",
+        "title": "Super Mario Bros.",
+        "release": "September 13, 1985",
+        "console": "NES",
+        "image": "classic/classic-3.jpg"
+    },
+    {
+        "id": "4",
+        "title": "Super Mario 3",
+        "release": "February 12, 1990",
+        "console": "NES",
+        "image": "classic/classic-4.jpg"
+    },
+    {
+        "id": "5",
+        "title": "Joe Montana Football",
+        "release": "January 1991",
+        "console": "Sega Genesis",
+        "image": "classic/classic-5.jpg"
+    },
+    {
+        "id": "6",
+        "title": "Mortal Kombat",
+        "release": "August 1992",
+        "console": "Sega Genesis",
+        "image": "classic/classic-6.jpg"
+    },
+    {
+        "id": "7",
+        "title": "Sonic the Hedgehog",
+        "release": "June 23, 1991",
+        "console": "Sega Genesis",
+        "image": "classic/classic-7.jpg"
+    },
+    {
+        "id": "8",
+        "title": "Streets of Rage 2",
+        "release": "December 20, 1992",
+        "console": "Sega Genesis",
+        "image": "classic/classic-8.jpg"
+    },
+    {
+        "id": "9",
+        "title": "Tecmo Bowl",
+        "release": "February 1989",
+        "console": "NES",
+        "image": "classic/classic-9.jpg"
+    },
+    {
+        "id": "10",
+        "title": "Mike Tyson's PUNCH-OUT!!",
+        "release": "October 18, 1987",
+        "console": "NES",
+        "image": "classic/classic-10.jpg"
+    },
+    {
+        "id": "11",
+        "title": "The Legend of Zelda",
+        "release": "August 1987",
+        "console": "NES",
+        "image": "classic/classic-11.jpg"
+    },
+    {
+        "id": "12",
+        "title": "Teenage Mutant Ninja Turtles",
+        "release": "June 1989",
+        "console": "NES",
+        "image": "classic/classic-12.jpg"
+    },
+    {
+        "id": "13",
+        "title": "Assassin's Creed Shadows",
+        "release": "March 20, 2025",
+        "console": "PS5, Xbox Series X/S, PC",
+        "image": "new/new-1.jpg"
+    },
+    {
+        "id": "14",
+        "title": "Call of Duty WWII",
+        "release": "November 3, 2017",
+        "console": "PS4, Xbox One, PC",
+        "image": "new/new-2.jpg"
+    },
+    {
+        "id": "15",
+        "title": "College Football 25",
+        "release": "July 19, 2024",
+        "console": "PS5, Xbox Series X/S",
+        "image": "new/new-3.jpg"
+    },
+    {
+        "id": "16",
+        "title": "Forza Horizon 5",
+        "release": "November 9, 2021",
+        "console": "PS5, Xbox Series X/S, Xbox One, PC",
+        "image": "new/new-4.jpg"
+    },
+    {
+        "id": "17",
+        "title": "Grand Theft Auto 5",
+        "release": "September 17, 2013",
+        "console": "PS3, Xbox 360, PS4, Xbox One, PS5, Xbox Series X/S, PC",
+        "image": "new/new-5.jpg"
+    },
+    {
+        "id": "18",
+        "title": "Madden 25",
+        "release": "August 16, 2024",
+        "console": "PS4, Xbox One, PS5, Xbox Series X/S, PC",
+        "image": "new/new-6.jpg"
+    },
+    {
+        "id": "19",
+        "title": "Mario Kart 8",
+        "release": "May 29, 2014",
+        "console": "Wii U, Nintendo Switch",
+        "image": "new/new-7.jpg"
+    },
+    {
+        "id": "20",
+        "title": "Minecraft",
+        "release": "November 18, 2014",
+        "console": "Xbox Series X/S, Xbox One, PC",
+        "image": "new/new-8.jpg"
+    },
+    {
+        "id": "21",
+        "title": "MLB 2K12",
+        "release": "March 6, 2012",
+        "console": "PS2, PS3, PS Portable, Xbox 360, Wii, Nintendo DS, PC",
+        "image": "new/new-9.jpg"
+    },
+    {
+        "id": "22",
+        "title": "NBA 2K23",
+        "release": "September 9, 2022",
+        "console": "PS4, Xbox One, PS5, Xbox Series X/S, Nintendo Switch, PC, iOS",
+        "image": "new/new-10.jpg"
+    },
+    {
+        "id": "23",
+        "title": "Skyrim The Elder Scrolls V",
+        "release": "November 11, 2011",
+        "console": "PS3, Xbox 360, PS4, Xbox One, PS5, Xbox Series X/S, Nintendo Switch, Nintendo Switch 2, PS",
+        "image": "new/new-11.jpg"
+    },
+    {
+        "id": "24",
+        "title": "Lego Avengers",
+        "release": "January 26, 2016",
+        "console": "PS3, Xbox 360, PS4, Xbox One, PS Vita, Wii U, Nintendo DS, PC, OS X",
+        "image": "new/new-12.jpg"
+    }
+]
